@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.188,=C:\Users\Filosoft\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2022-06-24 09:27:43.341,=C:\Users\Filosoft\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2022-06-24 09:28:15.810,C:\Source\GitHubProjetos\GerenciadorAccess\uMain.dfm=C:\Users\Filosoft\Documents\Embarcadero\Studio\Projects\Unit7.dfm</Transaction>
+    <Transaction>2022-06-24 09:28:15.810,C:\Source\GitHubProjetos\GerenciadorAccess\uMain.pas=C:\Users\Filosoft\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2022-06-24 09:28:33.403,C:\Source\GitHubProjetos\GerenciadorAccess\AccessManager.dproj=C:\Users\Filosoft\Documents\Embarcadero\Studio\Projects\Project7.dproj</Transaction>
+    <Transaction>2022-06-24 15:42:03.937,=C:\Source\GitHubProjetos\GerenciadorAccess\Unit1.pas</Transaction>
+    <Transaction>2022-06-24 15:42:32.359,C:\Source\GitHubProjetos\GerenciadorAccess\uAccessUtil.pas=C:\Source\GitHubProjetos\GerenciadorAccess\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
